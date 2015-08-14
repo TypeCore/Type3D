@@ -5,7 +5,7 @@
 Type3D aims to be a simple and efficient 3D Graphics Library, implemented in TypeScript for fast prototyping and customization of 3D math and game development toolkits.
 
 ## Build
-Clone the repository from any version of Visual Studio 2015, build the solution, and start experimenting. That's about it.
+If you do not have them already, install [Visual Studio Community or higher](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx) and [Typescript Tools with Standalone Compiler](https://visualstudiogallery.msdn.microsoft.com/3e5ba71c-abea-4d00-b81b-a62de3ad3d53). Then, clone the repository into Visual Studio 2015, build the solution, and start experimenting right away with the example projects.
 
 ## Design
 Type3D providing both the novice and professional developer with a solid framework that leverages TypeScript features, such as namespaces, interfaces, classes, generics, build-time type checking, and powerful intellisense integration. These tools facilitate rapid design and prototyping, console-integrated testing and debugging, and fast code refactoring for any custom 3D graphics engine for TypeScript/JavaScript.
